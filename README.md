@@ -15,5 +15,7 @@ Even though its for learning networks through python, chapters 1, 2 (without the
 tps://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO A playlist of a very good instructor explaining computer networks, watch videos 1-26, 37 and 38 as an alternative for reading the book!
 
 Sockets example and materials - 
-https://www.youtube.com/watch?v=-xKgxqG411c A java sockets example, no talking only coding with background music
-https://www.javatpoint.com/socket-programming A java tutorial covering almost everything or talked about in the networking lesson
+A java sockets example, no talking only coding with background music
+ https://www.youtube.com/watch?v=-xKgxqG411c
+A java tutorial covering almost everything or talked about in the networking lesson
+https://www.javatpoint.com/socket-programming
