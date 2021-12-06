@@ -17,5 +17,6 @@ tps://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO A playlis
 Sockets example and materials - 
 A java sockets example, no talking only coding with background music
  https://www.youtube.com/watch?v=-xKgxqG411c
+
 A java tutorial covering almost everything or talked about in the networking lesson
 https://www.javatpoint.com/socket-programming
